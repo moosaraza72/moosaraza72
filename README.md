@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/moosa-raza-baig-mirza-b22b399a/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:moosaraza24@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Abu%20Dhabi%2C%20UAE-green?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/place/Abu+Dhabi)
 
@@ -145,14 +145,14 @@ Osmania University, India
 
 - 🇬🇧 **English** (Professional)
 - 🇮🇳 **Hindi** (Native)
-- 🇵🇰 **Urdu** (Native)
+- 🇮🇳 **Urdu** (Native)
 
 ---
 
 ## 📫 Get In Touch
 
 - 📧 Email: [moosaraza24@gmail.com](mailto:moosaraza24@gmail.com)
-- 🌐 LinkedIn: [Connect with me](https://linkedin.com/in/yourprofile)
+- 🌐 LinkedIn: [Connect with me](https://www.linkedin.com/in/moosa-raza-baig-mirza-b22b399a/)
 - 📍 Location: Abu Dhabi, UAE 🇦🇪
 
 ---
@@ -173,7 +173,7 @@ Osmania University, India
 
 **"Building secure, scalable, and compliant banking systems"**
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=moosaraza72.moosaraza72)
+![Profile Views](https://vistr.dev/badge?repo=moosaraza72.moosaraza72)
 
 </div>
 
