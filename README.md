@@ -118,15 +118,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=moosaraza72&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Moosa's GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moosaraza72&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+### 🔧 Active Developer | 🏦 Banking Systems Specialist | 🇦🇪 Based in Abu Dhabi
 
-<img src="https://streak-stats.demolab.com?user=moosaraza72&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+**Current Focus:**
+- 🚀 Building enterprise CRM and banking systems at Finance House PJSC
+- 💡 Working with .NET Core, React, Kubernetes, and Azure DevOps
+- 🔒 Implementing secure, compliant financial applications
+- 📊 Specializing in high-volume transaction processing
 
 </div>
 
