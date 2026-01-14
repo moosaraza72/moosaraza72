@@ -122,11 +122,11 @@
 
 <div align="center">
   
-![Moosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moosaraza72&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=moosaraza72&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Moosa's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moosaraza72&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moosaraza72&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moosaraza72&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=moosaraza72&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
